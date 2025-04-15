@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-**[FrostLink](https://cx48.github.io/frostlink/)** can be deployed using **GitHub Pages** or **Vercel**.  
+**[FrostLink](https://cx48.github.io/FrostLink/)** can be deployed using **GitHub Pages** or **Vercel**.  
 
 All deployment steps are included at the bottom of this README.
 
