@@ -29,7 +29,7 @@ All deployment steps are included at the bottom of this README.
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/frostlink.git
+git clone https://github.com/YOUR-USERNAME/FrostLink.git
 ```
 
 > Replace `YOUR-USERNAME` with your actual GitHub username.
@@ -37,7 +37,7 @@ git clone https://github.com/YOUR-USERNAME/frostlink.git
 #### 3. **Navigate into the Project Folder**
 
 ```bash
-cd frostlink
+cd FrostLink
 ```
 
 #### 4. **Open in VS Code (or any code editor)**
