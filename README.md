@@ -4,7 +4,9 @@
 
 ## Live Demo
 
-*Coming soon!*
+**[FrostLink](https://cx48.github.io/frostlink/)** can be deployed using **GitHub Pages** or **Vercel**.  
+
+All deployment steps are included at the bottom of this README.
 
 ## What's Inside
 
@@ -48,12 +50,12 @@ code .
 
 ## Customize Your Page
 
-#### Change the Profile Picture
+### Change the Profile Picture
 
 - Replace the `img.png` with your own image (same file name works best).
 - Recommended size: 300x300 pixels.
 
-#### Update Name & Bio
+### Update Name & Bio
 
 Inside `index.html`, find:
 
@@ -64,7 +66,7 @@ Inside `index.html`, find:
 
 Change to your name/handle and short description.
 
-#### Edit or Add Links
+### Edit or Add Links
 
 There are 3 sections:
 
@@ -72,7 +74,7 @@ There are 3 sections:
 - **My Content** — blogs, newsletters, podcasts
 - **Quick Links** — donations, bookings, support
 
-#### To edit a link:
+### To edit a link:
 Find this:
 
 ```html
@@ -84,7 +86,7 @@ Find this:
 
 Replace the URL, icon class, and name
 
-#### To add a new link:
+### To add a new link:
 Copy this template and paste it into the section you want:
 
 ```html
