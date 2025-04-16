@@ -1,10 +1,10 @@
-# FrostLink
+# Frost Link
 
-**FrostLink** is a beautiful and responsive personal link-in-bio page built with **HTML**, **Tailwind CSS**, and **Font Awesome**.  
+**Frost Link** is a beautiful and responsive personal link-in-bio page built with **HTML**, **Tailwind CSS**, and **Font Awesome**.  
 
 ## Live Demo
 
-**[FrostLink](https://cx48.github.io/FrostLink/)** can be deployed using **GitHub Pages** or **Vercel**.  
+**[Frost Link](https://cx48.github.io/FrostLink/)** can be deployed using **GitHub Pages** or **Vercel**.  
 
 All deployment steps are included at the bottom of this README.
 
