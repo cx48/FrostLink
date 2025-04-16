@@ -12,11 +12,11 @@ All deployment steps are included at the bottom of this README
 
 ### Mobile View
 
-![Frost Link Mobile](screenshots/frost-link-mobile.png)
+<img src="screenshots/frost-link-mobile.png" alt="Frost Link Mobile View" style="max-width: 375px; height: auto;">
 
 ### Desktop View
 
-![Frost Link](screenshots/frost-link.png)
+![Frost Link Desktop View](screenshots/frost-link.png)
 
 ## What's Inside
 
