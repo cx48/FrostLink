@@ -4,9 +4,19 @@
 
 ## Live Demo
 
-**[Frost Link](https://cx48.github.io/FrostLink/)** can be deployed using **GitHub Pages** or **Vercel**.  
+**[Frost Link](https://cx48.github.io/FrostLink/)** can be deployed using **GitHub Pages** or **Vercel**
 
-All deployment steps are included at the bottom of this README.
+All deployment steps are included at the bottom of this README
+
+## Preview
+
+### Mobile View
+
+![Frost Link Mobile](screenshots/frost-link-mobile.png)
+
+### Desktop View
+
+![Frost Link](screenshots/frost-link.png)
 
 ## What's Inside
 
